@@ -1,3 +1,8 @@
 export default function App() {
-  return <h1>Hello Coffee ☕</h1>;
+  return (
+    <div style={{ padding: "40px", fontFamily: "Arial" }}>
+      <h1>☕ Coffee Club</h1>
+      <p>Сайт работает 🚀</p>
+    </div>
+  );
 }
